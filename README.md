@@ -2,7 +2,7 @@
 
 Description:
 This repository is a comprehensive collection of Data Structures and Algorithms (DSA) programs commonly asked in technical interviews. Whether you're preparing for software engineering interviews at top tech companies or aiming to strengthen your problem-solving skills, this repository serves as a valuable resource.
-<img align="right" src="https://i.ytimg.com/vi/lq60Vfa_U4U/maxresdefault.jpg" alt="DSA">
+<img align="right" width="400" src="https://i.ytimg.com/vi/lq60Vfa_U4U/maxresdefault.jpg" alt="DSA">
 Key Features:
 
 Structured Approach: Programs are organized systematically, covering fundamental data structures such as arrays, linked lists, stacks, queues, trees, graphs, and advanced algorithms like sorting, searching, dynamic programming, and more.
